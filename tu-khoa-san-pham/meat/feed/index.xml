@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>meat &#8211; beepizza</title>
+	<atom:link href="http://https://github.com/tee275/beepizza.github.io.git/tu-khoa-san-pham/meat/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://github.com/tee275/beepizza.github.io.git</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 May 2022 06:08:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Meat Lovers + Random Drinks</title>
+		<link>http://https://github.com/tee275/beepizza.github.io.git/san-pham/meat-lovers-random-drinks/</link>
+					<comments>http://https://github.com/tee275/beepizza.github.io.git/san-pham/meat-lovers-random-drinks/#respond</comments>
+		
+		<dc:creator><![CDATA[pizza]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2022 07:34:56 +0000</pubDate>
+				<guid isPermaLink="false">http://https://github.com/tee275/beepizza.github.io.git/?post_type=product&#038;p=70</guid>
+
+					<description><![CDATA[The juiciness of fresh shrimps combined with delectable rosé sauce lindsey lyng swag tee]]></description>
+										<content:encoded><![CDATA[The juiciness of fresh shrimps combined with delectable rosé sauce lindsey lyng swag tee]]></content:encoded>
+					
+					<wfw:commentRss>http://https://github.com/tee275/beepizza.github.io.git/san-pham/meat-lovers-random-drinks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meat-Lovers</title>
+		<link>http://https://github.com/tee275/beepizza.github.io.git/san-pham/meat-lovers/</link>
+					<comments>http://https://github.com/tee275/beepizza.github.io.git/san-pham/meat-lovers/#respond</comments>
+		
+		<dc:creator><![CDATA[pizza]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2022 07:20:36 +0000</pubDate>
+				<guid isPermaLink="false">http://https://github.com/tee275/beepizza.github.io.git/?post_type=product&#038;p=61</guid>
+
+					<description><![CDATA[This pizza is filled with 4 delicious meats. Spicy sausage, salami, ham, spicy beef topped with mozzarella cheese and attractive tomato sauce]]></description>
+										<content:encoded><![CDATA[This pizza is filled with 4 delicious meats. Spicy sausage, salami, ham, spicy beef topped with mozzarella cheese and attractive tomato sauce]]></content:encoded>
+					
+					<wfw:commentRss>http://https://github.com/tee275/beepizza.github.io.git/san-pham/meat-lovers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

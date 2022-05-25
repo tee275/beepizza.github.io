@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>shrimp &#8211; beepizza</title>
+	<atom:link href="http://https://github.com/tee275/beepizza.github.io.git/tu-khoa-san-pham/shrimp/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://github.com/tee275/beepizza.github.io.git</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 May 2022 06:10:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Pizzamin-sea + Random Drinks</title>
+		<link>http://https://github.com/tee275/beepizza.github.io.git/san-pham/spicy-pasta-random-drinks/</link>
+					<comments>http://https://github.com/tee275/beepizza.github.io.git/san-pham/spicy-pasta-random-drinks/#respond</comments>
+		
+		<dc:creator><![CDATA[pizza]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2022 09:43:41 +0000</pubDate>
+				<guid isPermaLink="false">http://https://github.com/tee275/beepizza.github.io.git/?post_type=product&#038;p=335</guid>
+
+					<description><![CDATA[With seafood shrimp, fresh squid, with onions and sweet pineapple combined with fragrant black pepper sauce, eat it all the time without getting bored.]]></description>
+										<content:encoded><![CDATA[With seafood shrimp, fresh squid, with onions and sweet pineapple combined with fragrant black pepper sauce, eat it all the time without getting bored.]]></content:encoded>
+					
+					<wfw:commentRss>http://https://github.com/tee275/beepizza.github.io.git/san-pham/spicy-pasta-random-drinks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pasta shrimp rose</title>
+		<link>http://https://github.com/tee275/beepizza.github.io.git/san-pham/baked-seafood-pasta/</link>
+					<comments>http://https://github.com/tee275/beepizza.github.io.git/san-pham/baked-seafood-pasta/#respond</comments>
+		
+		<dc:creator><![CDATA[pizza]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2022 07:41:32 +0000</pubDate>
+				<guid isPermaLink="false">http://https://github.com/tee275/beepizza.github.io.git/?post_type=product&#038;p=72</guid>
+
+					<description><![CDATA[Skewered spaghetti noodles combined with seafood such as squid, shrimp covered with
+<div class="ddict_btn" style="top: 44px; left: 1056.72px;"><img src="chrome-extension://fcfpagpiibkilokeihmaggjgheaemgbi/logo/48.png" /></div>]]></description>
+										<content:encoded><![CDATA[<p>The juiciness of fresh shrimps combined with delectable rosé sauce</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://github.com/tee275/beepizza.github.io.git/san-pham/baked-seafood-pasta/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pizzamin-sea</title>
+		<link>http://https://github.com/tee275/beepizza.github.io.git/san-pham/pizzamin-sea/</link>
+					<comments>http://https://github.com/tee275/beepizza.github.io.git/san-pham/pizzamin-sea/#respond</comments>
+		
+		<dc:creator><![CDATA[pizza]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2022 07:22:29 +0000</pubDate>
+				<guid isPermaLink="false">http://https://github.com/tee275/beepizza.github.io.git/?post_type=product&#038;p=62</guid>
+
+					<description><![CDATA[With seafood shrimp, fresh squid, with onions and sweet pineapple combined with fragrant black pepper sauce
+<div class="ddict_btn" style="top: 21px; left: 1079.3px;"><img src="chrome-extension://fcfpagpiibkilokeihmaggjgheaemgbi/logo/48.png" /></div>]]></description>
+										<content:encoded><![CDATA[With seafood shrimp, fresh squid, with onions and sweet pineapple combined with fragrant black pepper sauce
+<div class="ddict_btn" style="top: 21px; left: 1079.3px;"><img src="chrome-extension://fcfpagpiibkilokeihmaggjgheaemgbi/logo/48.png" /></div>]]></content:encoded>
+					
+					<wfw:commentRss>http://https://github.com/tee275/beepizza.github.io.git/san-pham/pizzamin-sea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

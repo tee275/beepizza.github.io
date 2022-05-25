@@ -1,0 +1,262 @@
+/*
+Theme Name: Appetizer
+Theme URI: https://burgerthemes.com/appetizer-free/
+Author: burgersoftware
+Author URI: https://burgerthemes.com/
+Description: Appetizer is a Creative, Modern, and Professional Restaurant WordPress Theme. The theme is perfect for Restaurants, Fast Food, Seafood restaurants, Recipes, bakeries, burgers, Coffee Shops, Pizza Shops Websites, who need an easy, attractive and effective way to promote your food related services. Checkout Pro Version https://burgerthemes.com/demo/pro/appetizer/
+Version: 1.0.3
+Tested up to: 5.9
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: appetizer
+Slug: appetizer
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*//*Nav-Bar*/
+.header-one .main-navbar .main-menu > li.menu-item:not(.focus):not(.active):not(:hover) > a:not(:focus):not(:hover), .header-two .main-navbar .main-menu > li.menu-item:not(.focus):not(.active):not(:hover) > a:not(:focus):not(:hover), .header-three .main-navbar .main-menu > li.menu-item:not(.focus):not(.active):not(:hover) > a:not(:focus):not(:hover), .header-four .main-navbar .main-menu > li.menu-item:not(.focus):not(.active):not(:hover) > a:not(:focus):not(:hover) {
+    color: #FFFF00;
+}
+
+/*Slider-1*/
+.slider-section {
+    color: #ffff00;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding: 0;
+    background-color: var(--bs-secondary);
+    z-index: 0;
+}
+
+.home-slider-thumbs .thumb-content .price {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    right: 50%;
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    line-height: 2.15;
+    background-color: black;
+    border-radius: 100px;
+    font-size: 22px;
+    letter-spacing: -1px;
+    transform: translate(-50%, -50%);
+    transition: 0.5s all ease;
+    word-break: keep-all;
+}
+
+/*ShoppingCart*/
+.shopping-cart {
+	border-top: 3px solid gray;
+	background: gray;
+}
+.owl-theme div.owl-nav [class*=owl-] {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    border-radius: 100px;
+    outline: none;
+    color: #FFD700;
+    background-color: black;
+    box-shadow: var(--bs-shadow);
+    -webkit-transition: var(--bs-transition);
+    transition: var(--bs-transition);
+}
+
+/*Button-before*/
+[data-text]::before, [data-text]::after {
+    color: #FFFF00;
+    background-color: Black;
+}
+
+/*Hover*/
+.btn-primary {
+    color: Black;
+    background-color: #FFFF00;
+    border-color: #FFFF00;
+}
+
+/*Slier-2*/
+.heading-default h2 {
+    font-family: var(--bs-font-title);
+    color: #FFD700;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.heading-default p {
+    font-size: 24px;
+    margin-bottom: 0;
+    color: #FFD700;
+}
+
+/*Slier-3*/
+.heading-default.heading-white h2, .heading-default.heading-white p {
+    color: #FFD700;
+}
+
+/*Blog*/
+.post-content {
+    position: relative;
+    width: 100%;
+    padding: 22px 20px 20px;
+    border-radius: 4px;
+    z-index: 0;
+    transition: var(--bs-transition);
+    background-color: Black;
+}
+
+.post-items .post-title a {
+    text-decoration: none;
+    color: #FFFF00;
+}
+
+
+*:not(table *) {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    word-break: break-word;
+    color: #FFFF00;
+}
+
+.post-meta a {
+    text-decoration: none;
+    color: #FFFF00;
+}
+
+/*Button-After*/
+[data-text] > span {
+    display: block;
+    -webkit-transform: scale3d(0.2, 0.2, 1);
+    transform: scale3d(0.2, 0.2, 1);
+    opacity: 0;
+    -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+    transition: transform 0.3s, opacity 0.3s;
+    -webkit-transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
+    transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
+    color: black;
+    background-color: #FFFF00;
+}
+
+.comment-metadata .edit-link a, .comment-body .reply a, .scrolling-btn, .more-link, .bs-tab-filter a, form button, .bs-post-pagination div.nav a, .btn:not(.btn-link):not(.btn-play):not(.btn-video) {
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+    text-decoration: none;
+    transition: 0.5s all ease;
+    background-color: #FFFF00;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: var(--bs-primary);
+    border-color: #FFF;
+}
+
+/*OrderLink*/
+.btn-link {
+    font-weight: 600;
+    color: black;
+    text-decoration: underline;
+}
+
+.btn-link .bticn {
+    background-color: black;
+    color: #fff;
+    border-radius: 100px;
+}
+
+.service-item-overlay .badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: black;
+    color: #FFFF00;
+    padding: 5.5px 10px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+/*Price-Sign*/
+.woo-shop .product-inner .product-content .woocommerce-Price-amount.amount {
+    color: #fff;
+    background-color: black;
+}
+
+/*addtocart*/
+.woo-shop .product-inner .product-content .product-action .button {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #FFD700;
+    color: black;
+    border-radius: 4px;
+    padding: 14.401px 35px;
+    font-size: 16px;
+    line-height: 1.2;
+}
+
+.woo-shop .product-inner .product-content .woocommerce-Price-amount.amount {
+    width: 80px;
+    height: 59px;
+    display: inline-block;
+    line-height: 59px;
+    border-radius: 100px;
+    transition: var(--bs-transition);
+}
+
+/*sale_in_combo*/
+.wc-block-grid__product-onsale {
+    font-size: .875em;
+    padding: 0.25em 0.75em;
+    display: inline-block;
+    width: auto;
+    border: 1px solid #43454b;
+    border-radius: 3px;
+    color: #43454b;
+    background: #343a40;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    z-index: 9;
+    position: relative;
+}
+
+/*price_in_combo*/
+ins .amount {
+    color: #ffeb3b;
+    text-decoration: underline;
+}
+
+/*track_button*/
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    font-weight: 600;
+    color: #212529;
+    background-color: #fdfd00;
+    border-radius: 100px;
+    overflow: hidden;
+    font-size: 0.95rem;
+}
+
+/*cart_color*/
+.menu-right-list li.cart-wrapper .cart-icon-wrap span {
+    position: absolute;
+    top: -6px;
+    right: -3px;
+    width: 18px;
+    height: 18px;
+    line-height: 16.8px;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 10px;
+    color: #212529;
+    background-color: rgb(255 191 0);
+}
